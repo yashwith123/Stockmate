@@ -1,17 +1,57 @@
-# stockmate
+# 📈 StockMate - Stock Market Flutter App
 
-A new Flutter project.
+StockMate is a Flutter-based stock market application that provides live stock prices, company insights, IPO listings, latest market news, and wishlist functionality. The app is designed to help users explore and track stocks in a clean and modern mobile interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Live Stock Prices  
+✅ Company Search  
+✅ Interactive Stock Charts  
+✅ IPO Listings  
+✅ Stock News  
+✅ Wishlist / Favorite Stocks  
+✅ Company Information  
+✅ Clean Dark UI  
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App Screenshots
+
+### Home Screen
+(Add Screenshot Here)
+
+### IPO Section
+(Add Screenshot Here)
+
+### News Section
+(Add Screenshot Here)
+
+### Wishlist
+(Add Screenshot Here)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Flutter
+- Dart
+
+### APIs Used
+- Finnhub API (Stock Prices, IPO Data)
+- MarketAux API (Stock News)
+
+### State Management
+- Flutter State Management
+
+---
+
+## 📦 Packages Used
+
+```yaml
+http
+fl_chart
+provider
+shared_preferences
